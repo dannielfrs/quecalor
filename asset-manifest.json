@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/quecalor/static/css/main.84d8a703.css",
-    "main.js": "/quecalor/static/js/main.8677b3b6.js",
+    "main.js": "/quecalor/static/js/main.03870fb9.js",
     "static/js/787.62ea5e01.chunk.js": "/quecalor/static/js/787.62ea5e01.chunk.js",
     "index.html": "/quecalor/index.html",
     "main.84d8a703.css.map": "/quecalor/static/css/main.84d8a703.css.map",
-    "main.8677b3b6.js.map": "/quecalor/static/js/main.8677b3b6.js.map",
+    "main.03870fb9.js.map": "/quecalor/static/js/main.03870fb9.js.map",
     "787.62ea5e01.chunk.js.map": "/quecalor/static/js/787.62ea5e01.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.84d8a703.css",
-    "static/js/main.8677b3b6.js"
+    "static/js/main.03870fb9.js"
   ]
 }
